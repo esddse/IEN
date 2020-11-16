@@ -87,4 +87,13 @@ To run the elmo version, just set ``use_elmo=True`` in ``sec/config/propara.py``
 
 ### Reference
 
+```
+@inproceedings{tang2020understanding,
+  title={Understanding Procedural Text Using Interactive Entity Networks},
+  author={Tang, Jizhi and Feng, Yansong and Zhao, Dongyan},
+  booktitle={Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+  pages={7281--7290},
+  year={2020}
+}
+```
 
