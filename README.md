@@ -6,7 +6,7 @@
 
 This repo contains the implementation of Interactive Entity Network, IEN, described in the EMNLP 2020 paper *Understanding Procedural Text using Interactive Entity Networks*.
 
-![IEN](C:\学习资料\研二上\实验室\ProPara\github\IEN.PNG)
+![IEN](IEN.PNG)
 
 IEN is a kind of RNN that designed for entity state tracking in procedural text. In each IEN cell, entities' states are maintained using memory slots, and different types of entity interactions are modeled by different attention matrices.
 
